@@ -1,3 +1,3 @@
-PROJECT 1
+PROJECT 1 (Coffee Machine)
 
-![Coffee Machine](/demo.gif)
+![Coffee Machine](Project_1/demo.gif)
